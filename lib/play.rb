@@ -42,4 +42,6 @@ def play(board)
   turn(board)
   counter += 1 
 end
+display_board(board)
+
 end
